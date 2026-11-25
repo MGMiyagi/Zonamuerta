@@ -37,4 +37,3 @@ jobs:
           name: ZonaMuerta-APK
           path: ZonaMuerta/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-          
